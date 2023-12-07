@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(171, 131, 208);
+}
+img{
+    margin-left: 1050px;
+    height: 250px;
+    width: 400px;
+    position: absolute;
+    top: 290px;
+}
+p{
+    font-size: 19px;
+    font-style: italic;
+}
+h2{
+    color: rgba(133, 21, 21, 0.531);
+    font-style: oblique;
+
+
+}
+h1{
+    text-align: center;
+    font-style: italic;
+}
+.imagen{
+    margin-left: 30px;
+    position: absolute;
+    bottom: 40px;
+    top: 350px;
+}
+.copa{
+    margin-left: 30px;
+    position: absolute;
+    bottom: 40px;
+    top: 700px;
+}
+.finalisima{
+    margin-left: 30px;
+    position: absolute;
+    bottom: 40px;
+    top: 1020px;
+}
+.mundial{
+    margin-left: 30px;
+    position: absolute;
+    bottom: 40px;
+    top: 1350px;
+}

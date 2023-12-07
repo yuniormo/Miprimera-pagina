@@ -1,0 +1,61 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(img01/fondoclc.jpg);
+}
+h1{
+    text-align: center;
+    color: #2980b9;
+    font-style: italic;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    font-style: italic;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
+.calculator {
+    border: 2px solid #690d0d;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-left: 600px;
+}
+
+#display {
+    width: 100%;
+    padding: 10px;
+    font-size: 1.5em;
+    border: none;
+    outline: none;
+}
+
+.keys {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+button {
+    width: 100%;
+    padding: 15px;
+    font-size: 1.2em;
+    border: none;
+    background-image: url(img01/img1.jpg);
+    color: #5c0af5;
+    cursor: pointer;
+}
+
+button:active {
+    background-color: #2980b9;
+}
+

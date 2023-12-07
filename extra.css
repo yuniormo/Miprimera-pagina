@@ -1,0 +1,28 @@
+body{
+    color: white;
+    margin: 0;
+    background-color:rgb(21, 21, 20);
+    background-image: url(img/fondo3.jpg);
+}
+.box{
+    float: left;
+    width: 400px;
+    height: 400px;
+    margin-left: 50px;
+
+    
+}
+video{
+    margin-right: 20px;
+    width: 400px;
+    height: 400px;
+    
+
+}
+h1{
+    color: rgb(30, 61, 213);
+    font-style: italic;
+    text-align: center;
+    font-size: 50px;
+
+}

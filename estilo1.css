@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(240, 236, 236);
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+    color: blueviolet;
+
+}
+img{
+    margin-left: 1050px;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 50px;
+}
+h1{
+    color: rgb(135, 27, 27);
+}
+h2{
+    color: rgb(132, 35, 35);
+}
+video{
+    margin-left: 500px;
+
+}
